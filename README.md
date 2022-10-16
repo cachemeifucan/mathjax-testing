@@ -1,4 +1,4 @@
 
-$$<sCr+Ipt>{&lt;iN+put&gt;}$$
+$$<sCr+Ipt>{&lt;input&gt;$${}
 
 
