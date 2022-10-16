@@ -1,6 +1,6 @@
 
 $$\
-\<sCr+Ipt>{&lt;input&gt;}$$
-```math
+\<sCr+Ipt>{&lt;input&gt;}
+
 $$\<script>{&lt;input&gt;<!--}$$
-```
+
