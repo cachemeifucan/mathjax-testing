@@ -1,7 +1,7 @@
 
 $$\
 ```math
-\<sCr+Ipt>{&lt;input&gt;}$$
+\<sCr+Ipt>{&lt;input&gt;}
 ```
 $$\<script>{&lt;input&gt;<!--}$$
 
