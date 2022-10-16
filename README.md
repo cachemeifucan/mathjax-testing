@@ -1,4 +1,3 @@
 ```math
-\sqrt{$$<u>hey</u>$$}
-
+\sqrt$${<u>hey</u>}$$
 ```
