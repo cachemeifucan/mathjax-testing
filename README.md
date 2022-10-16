@@ -1,4 +1,4 @@
 
-$$<script>{&lt;input&gt;}$$
+$$<>{&lt;input&gt;}$$
 
 
