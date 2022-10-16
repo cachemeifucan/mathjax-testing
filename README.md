@@ -1,3 +1,3 @@
 ```math
-\sqrt{3}
+\sqrt{<u>hey</u>}
 ```
