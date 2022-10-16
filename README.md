@@ -1,4 +1,4 @@
 
-$$<sCrIpt>{&lt;input&gt;}$$
+$$<sCr+Ipt>{&lt;input&gt;}$$
 
 
