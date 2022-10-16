@@ -1,4 +1,3 @@
 
-```math
-\<body style="background-color:red;"></body>{\\}
-```
+$$\<body style="background-color:red;"></body>$$
+
